@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arun Pratap Singh</h1>
 <h3 align="center">A passionate Data Analytics from India</h3>
 
-- 🔭 I’m currently working on **Amazon Sales Analysis**
-
 - 🌱 I’m currently learning **Power BI**
 
 - 📫 How to reach me **arunsingh952001@gmail.com**
