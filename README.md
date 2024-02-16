@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arun Pratap Singh</h1>
 <h3 align="center">A passionate Data Analytics from India</h3>
 
-- 🌱 I’m currently learning **Power BI**
+- 🌱 I’m currently learning **SQL**
 
 - 📫 How to reach me **arunsingh952001@gmail.com**
 
