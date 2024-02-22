@@ -1,9 +1,9 @@
 <h1 align="center">Hi👋</h1>
 <h1 align="center">I'm Arun Pratap Singh</h1>
 
-- 🌱 I’m currently learning **SQL**
-
 - 🔭 3rd year undergrad at OCT Bhopal pursuing Computer Science and Engineering with specialization in Data Science.
+- 💻 Python | SQL | Excel | Power BI.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
