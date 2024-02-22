@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Arun Pratap Singh</h1>
+<h1 align="center">Hi👋</h1>
+<h1 align="center">I'm Arun Pratap Singh</h1>
 <h3 align="center">A passionate Data Analytics from India</h3>
 
 - 🌱 I’m currently learning **SQL**
