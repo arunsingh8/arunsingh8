@@ -8,7 +8,7 @@
 <h3 align="left">You can connect with me from here 📧:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arunsingh02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arunsingh02" height="30" width="40" /></a>
-<a href="https://arunsingh952001@gmail.com height="30" width="40" /></a>
+<a href="https://arunsingh952001@gmail.com"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arunsingh952001@gmail.com" height="30" width="40" /></a>
 
 </p>
 
