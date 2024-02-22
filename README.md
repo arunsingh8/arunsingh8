@@ -1,10 +1,9 @@
 <h1 align="center">Hi👋</h1>
 <h1 align="center">I'm Arun Pratap Singh</h1>
-<h3 align="center">A passionate Data Analytics from India</h3>
 
 - 🌱 I’m currently learning **SQL**
 
-- 📫 How to reach me **arunsingh952001@gmail.com**
+- 🔭 3rd year undergrad at OCT Bhopal pursuing Computer Science and Engineering with specialization in Data Science.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
