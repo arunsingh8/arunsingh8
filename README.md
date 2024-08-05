@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋</h1>
 <h1 align="center">I'm Arun Pratap Singh</h1>
 
-- 🔭 3rd year undergrad at OCT Bhopal pursuing Computer Science and Engineering with specialization in Data Science.
+- 🔭 4th year undergrad at OCT Bhopal pursuing Computer Science and Engineering with specialization in Data Science.
 - 💻 Python | SQL | Excel | Power BI | ML.
 
 
