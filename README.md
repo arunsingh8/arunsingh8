@@ -1,9 +1,9 @@
 <h1 align="center">Hi👋</h1>
 <h1 align="center">I'm Arun Pratap Singh</h1>
 
-- 🔭 I am pursuing b.tech from Oriental College of technology. I have skill in Data Analysis.
+- 🔭 Pursuing b.tech from Oriental College of technology. I have skill in Data Analysis.
       I have worked up on several personal projects in which I have utilised these tools to solve real word problems.
-      While working on these project I have worked up on data extraction, data cleaning, data modelling, data analysis and data visualisation part..
+       While working on these project I have worked up on data extraction, data cleaning, data modelling, data analysis and data visualisation part..
 - 💻 SQL | Excel | Power BI | Python | AI.
 
 
