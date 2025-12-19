@@ -1,9 +1,9 @@
 <h1 align="center">Hi👋</h1>
 <h1 align="center">I'm Arun Pratap Singh</h1>
 
-- 🔭 Pursuing b.tech from Oriental College of technology. I have skill in Data Analysis.
-      I have worked up on several personal projects in which I have utilised these tools to solve real word problems.
-       While working on these project I have worked up on data extraction, data cleaning, data modelling, data analysis and data visualisation part..
+- 🔭 A data enthusiast with hands-on experience in transforming raw operational data into meaningful insights and automated systems.
+      I specialize in building dashboards, optimizing workflows, and creating digital solutions for real-world business problems.
+      I have worked with Power BI, Looker Studio, Google Sheets, Excel, SQL, Google Forms, and dashboard/intranet systems, developing solutions that improve accuracy, transparency, and decision-making.
 - 💻 SQL | Excel | Power BI | Python | AI.
 
 
